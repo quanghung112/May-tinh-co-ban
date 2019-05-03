@@ -1,0 +1,21 @@
+#mybox{
+    background-color: gray;
+    width: 190px;
+    height: 200px;
+}
+#output {
+    width: 192px;
+    height: 50px;
+}
+.btn{
+    width: 36px;
+    height: 36px;
+}
+.btnb{
+    width: 76px;
+    height: 36px;
+}
+.btn0{
+    width: 76px;
+    height: 36px;
+}
